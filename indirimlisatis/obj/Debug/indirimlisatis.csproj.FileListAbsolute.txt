@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\indirimlisatis\indirimlisatis\bin\Debug\indirimlisatis.exe.config
+C:\Users\User\source\repos\indirimlisatis\indirimlisatis\bin\Debug\indirimlisatis.exe
+C:\Users\User\source\repos\indirimlisatis\indirimlisatis\bin\Debug\indirimlisatis.pdb
+C:\Users\User\source\repos\indirimlisatis\indirimlisatis\obj\Debug\indirimlisatis.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\indirimlisatis\indirimlisatis\obj\Debug\indirimlisatis.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\indirimlisatis\indirimlisatis\obj\Debug\indirimlisatis.Form1.resources
+C:\Users\User\source\repos\indirimlisatis\indirimlisatis\obj\Debug\indirimlisatis.Properties.Resources.resources
+C:\Users\User\source\repos\indirimlisatis\indirimlisatis\obj\Debug\indirimlisatis.csproj.GenerateResource.cache
+C:\Users\User\source\repos\indirimlisatis\indirimlisatis\obj\Debug\indirimlisatis.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\indirimlisatis\indirimlisatis\obj\Debug\indirimlisatis.exe
+C:\Users\User\source\repos\indirimlisatis\indirimlisatis\obj\Debug\indirimlisatis.pdb
